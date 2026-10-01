@@ -1,4 +1,4 @@
-# 🚀 Enterprise Gateway Redundancy Lab
+# Enterprise Gateway Redundancy Lab
 
 A high-availability enterprise gateway network designed and implemented using **Cisco Packet Tracer**.
 
@@ -6,7 +6,7 @@ This project demonstrates **HSRP-based gateway redundancy**, Active/Standby rout
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 In a traditional network, end devices normally depend on a single default gateway.
 
